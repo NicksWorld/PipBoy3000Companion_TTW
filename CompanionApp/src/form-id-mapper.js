@@ -51,6 +51,7 @@ const FNV_PIPBOY_PLUGIN_HIGH_BYTE = {
   'oldworldblues.esm': 0x07,
   'lonesomeroad.esm': 0x08,
   'gunrunnersarsenal.esm': 0x09,
+  'fallout3.esm': 0x0A,
 };
 
 /** @deprecated Use FNV_PIPBOY_PLUGIN_HIGH_BYTE */
